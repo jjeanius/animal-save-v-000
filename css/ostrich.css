@@ -11,6 +11,6 @@ html {
 /* Write your solution here //desktop down ///////*/
 
 @media only screen and (max-height: 100px){
-  #ostrich {height: 100px;
+  #ostrich {jump: 100px;
     }
   }
