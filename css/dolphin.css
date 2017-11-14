@@ -23,5 +23,8 @@ html {
 
 @media only screen and (min-width: 642px) and(max-width: 1090px) {
 
-     {    }
+    #dolphin { width: 642px;
+      top: 100px;      
+      transorm: rotate(750px); 
+    }
 }
