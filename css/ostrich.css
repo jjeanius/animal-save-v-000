@@ -10,8 +10,8 @@ html {
 
 /* Write your solution here //desktop down ///////*/
 
-@media only screen and (max-height: 100px){
+@media only screen and (min-height: 100px){
   #ostrich {top: : 100px;
-      
+
     }
   }
