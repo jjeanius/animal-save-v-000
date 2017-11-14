@@ -11,7 +11,7 @@ html {
 /* Write your solution here //desktop down ///////*/
 
 @media only screen and (min-height: 100px){
-  #ostrich {top: 600px;
+  #ostrich {height: 100px;
 mi
 
     }
