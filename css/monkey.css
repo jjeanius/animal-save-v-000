@@ -11,6 +11,7 @@ html {
 /* Write your solution here */from screen size of 406px to 1090px
 
 @media only screen and (min-width: 406px) and(max-width: 1090px) {
-  #monkey {width: : 600px;
-     }
+  #monkey {right: 0;
+            top: 0
+  }
 }
